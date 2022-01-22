@@ -1,6 +1,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=omercanxx&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=omercanxx&langs_count=5&theme=tokyonight)]()
-![snake svg](https://github.com/omercanxx/omercanxx/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/omercanxx/omercanxx/output/github-contribution-grid-snake.svg)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/omercan-sucu/"><img height="30" src="https://github.com/omercanxx/omercanxx/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
