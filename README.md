@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Can Sucu</h1>
-<h3 align="center">A passionate software developer from Papara, Turkey.</h3>
+<h3 align="center">A passionate software developer from Odeatech, Turkey.</h3>
 
 - 📫 How to reach me **omer60can@hotmail.com**
 
